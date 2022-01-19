@@ -1,0 +1,18 @@
+Trabalho realizado por:
+    . Arthur Severo
+    . Victor Le Roy
+
+Para rodar o programa rode o arquivo >>main.py<< com o seguinte comando:
+    python [caminho para arquivo main.py] [caminho do arquivo json]
+
+A saida representa um arquivo json definido como:
+{
+    "glc": [
+        [variaveis],
+        [terminais],
+        [
+            [regras]
+        ],
+        "regra_inicial"
+    ]
+}
