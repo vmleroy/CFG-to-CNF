@@ -1,6 +1,6 @@
 Trabalho realizado por:
-    . Arthur Severo
-    . Victor Le Roy
+    . Arthur Severo : 20183021106
+    . Victor Le Roy : 20183021222
 
 Para rodar o programa rode o arquivo >>main.py<< com o seguinte comando:
     python [caminho para arquivo main.py] [caminho do arquivo json]
